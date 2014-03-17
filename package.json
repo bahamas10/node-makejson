@@ -1,0 +1,16 @@
+{
+  "name": "makejson",
+  "version": "0.0.0",
+  "description": "Make JSON from the command line",
+  "author": "Dave Eddy <dave@daveeddy.com> (http://www.daveeddy.com)",
+  "repository": "git://github.com/bahamas10/node-makejson.git",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "makejson": "./makejson.js"
+  },
+  "dependencies": {
+    "strsplit": "^1.0.0",
+    "autocast": "0.0.4"
+  }
+}
