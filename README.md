@@ -11,13 +11,13 @@ Installation
 Usage
 -----
 
-    $ ./makejson.js string foo bar baz
+    $ makejson string foo bar baz
 
 ``` json
 "foo bar baz"
 ```
 
-    $ ./makejson.js array foo bar baz
+    $ makejson array foo bar baz
 
 ``` json
 [
@@ -27,7 +27,7 @@ Usage
 ]
 ```
 
-    $ ./makejson.js object foo=foo bar=bar baz=baz
+    $ makejson object foo=foo bar=bar baz=baz
 
 ``` json
 {
