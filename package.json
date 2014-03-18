@@ -10,7 +10,7 @@
     "makejson": "./makejson.js"
   },
   "dependencies": {
-    "strsplit": "^1.0.0",
-    "autocast": "0.0.4"
+    "strsplit": "~1.0.0",
+    "autocast": "~0.0.4"
   }
 }
